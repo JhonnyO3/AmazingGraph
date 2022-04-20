@@ -7,10 +7,10 @@
 }
 
 .main{
-    width: 100%;
     padding: 5%;
     padding-top: 10%;
     color: #766F68;
+    display: flex;
 }
 .main .txt{
     font-size: 60px;
@@ -22,13 +22,21 @@
     font-weight: 400;
     padding-bottom: 40px;
 }
-.main .image{
-    width: 20%;
-}
+
 .main .buttom{
     background-color: #D2872C;
+    font-weight: 500;
+    font-size: 25px;
     color: #fff;
     padding: 10px;
     border-radius: 10px;
-    
+    padding-right: 5%;
+    padding-left: 5%;
+    text-align: center;
 }
+.main .img img{
+    width: 100%;
+ 
+
+}
+.main > di
