@@ -39,3 +39,8 @@
     
 }
 
+div i {
+    width: 100%;
+    display: none;
+    align-items: flex-end;
+}

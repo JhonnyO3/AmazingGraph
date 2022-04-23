@@ -1,0 +1,16 @@
+@media screen and (max-width: 1175px) {
+    .main {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .main .img {
+        width: 100%;
+    }
+    .main > div:first-of-type {
+        width: 100%;
+    }
+    nav .navbar .menu {
+        display: none;
+    }
+}
